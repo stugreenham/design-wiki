@@ -21,3 +21,4 @@ Hunting for a tool or resource of a certain kind, especially free ones.
 ## Related
 
 - [Recent](../craft/recent-design.md)
+- [mkdir](../craft/mkdir-directory.md)

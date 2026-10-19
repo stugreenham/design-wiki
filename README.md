@@ -12,17 +12,17 @@ A personal knowledge base, shared publicly, on how design is changing: tools, id
 | [Process and Methods](topics/process-and-methods/README.md) | Frameworks, workshops, ways of working | 2 |
 | [UX Fundamentals](topics/ux-fundamentals/README.md) | UX laws, psychology, biases and myths | 4 |
 | [Research](topics/research/README.md) | User research, testing, synthesis | 0 |
-| [Craft](topics/craft/README.md) | Visual design, typography, interaction, motion, polish | 8 |
+| [Craft](topics/craft/README.md) | Visual design, typography, interaction, motion, polish | 9 |
 | [Career](topics/career/README.md) | Growth, leadership, and hiring from both sides of the table | 3 |
 | [Industry and Trends](topics/industry-and-trends/README.md) | Where the industry is heading, opinions, big shifts | 2 |
 
 ## Recently added
 
+- [mkdir](topics/craft/mkdir-directory.md)
 - [Laws of UX](topics/ux-fundamentals/laws-of-ux.md)
 - [ScreensDesign](topics/tools-and-skills/screensdesign.md)
 - [Can I Run AI?](topics/tools-and-skills/canirun-ai.md)
 - [Navbar Gallery](topics/craft/navbar-gallery.md)
-- [The UX Cookbook](topics/process-and-methods/ux-cookbook.md)
 
 ## About
 

@@ -23,3 +23,4 @@ A broad visual scan for fresh ideas. Anything worth keeping visually goes into E
 - [Navbar Gallery](navbar-gallery.md)
 - [Brian Lovin: Good websites](brian-lovin-good-websites.md)
 - [Eagle Community: Tools](../tools-and-skills/eagle-community-tools.md)
+- [mkdir](mkdir-directory.md)
