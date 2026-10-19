@@ -33,7 +33,9 @@ Visual inspiration lives in Eagle. This wiki is for ideas and knowledge, so focu
 
 ## Things to check before filing
 
-- Check for duplicates first. If a link is already filed, or is the source behind an existing entry, add to that entry instead of making a new one
+- Check for duplicates first. If the exact link is already filed, or is the source behind an existing entry, add to that entry instead of making a new one
+- Always file every link Stu shares, even if it's listed on another site or directory already in the wiki. External sites can disappear, so the wiki must not depend on them
+- For directory or list sites, save a dated snapshot of the list inside the entry, so it survives if the site goes offline
 
 - Content from work channels: strip anything confidential, internal, or that names colleagues. If unsure, ask
 - Missing author or link: ask rather than guess
