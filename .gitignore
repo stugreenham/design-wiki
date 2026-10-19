@@ -1,0 +1,14 @@
+# Obsidian personal workspace files (layout, open tabs, cache)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# OS files
+.DS_Store
+
+# Never commit secrets
+.env
+.env.*
+*.pem
+*.key
