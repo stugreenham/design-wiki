@@ -9,6 +9,7 @@ Things you can install or use in your workflow: design tools, AI agent skills, s
 - [Appllama](appllama.md): screens and flows from top-grossing iOS apps, with an MCP for AI tools
 - [ScreensDesign](screensdesign.md): searchable recordings of top iOS app flows, with an MCP. Similar to Appllama
 - [ButterKit](butterkit.md): Mac app for App Store screenshots, translated into 50 languages
+- [Graphical](graphical.md): build a visual theme, then let your AI coding agent build with it
 - [Transitions.dev](transitions-dev.md): ready-made UI transitions plus motion tools for AI agents
 
 ## AI generation

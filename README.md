@@ -7,7 +7,7 @@ A personal knowledge base, shared publicly, on how design is changing: tools, id
 | Topic | What goes here | Entries |
 | --- | --- | --- |
 | [AI and Design](topics/ai-and-design/README.md) | Research, ideas and opinions on how AI is changing design | 4 |
-| [Tools and Skills](topics/tools-and-skills/README.md) | Design tools, AI agent skills, spec frameworks you can use | 16 |
+| [Tools and Skills](topics/tools-and-skills/README.md) | Design tools, AI agent skills, spec frameworks you can use | 17 |
 | [Design Systems](topics/design-systems/README.md) | Components, tokens, documentation, governance | 1 |
 | [Process and Methods](topics/process-and-methods/README.md) | Frameworks, workshops, ways of working | 2 |
 | [UX Fundamentals](topics/ux-fundamentals/README.md) | UX laws, psychology, biases and myths | 4 |
@@ -18,11 +18,11 @@ A personal knowledge base, shared publicly, on how design is changing: tools, id
 
 ## Recently added
 
+- [Graphical](topics/tools-and-skills/graphical.md)
 - [Vibrant Design](topics/craft/vibrant-design.md)
 - [mkdir](topics/craft/mkdir-directory.md)
 - [Laws of UX](topics/ux-fundamentals/laws-of-ux.md)
 - [ScreensDesign](topics/tools-and-skills/screensdesign.md)
-- [Can I Run AI?](topics/tools-and-skills/canirun-ai.md)
 
 ## About
 
