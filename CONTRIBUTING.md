@@ -49,7 +49,7 @@ A full entry has:
 
 Keep tags lowercase and hyphenated. Reuse existing tags before adding new ones.
 
-Current tags: `ai-agents` `ai-chatbots` `ai-image-generation` `ai-skills` `ai-workflows` `ai-output-review` `app-patterns` `atomic-research` `career-growth` `claude` `component-states` `conversational-ui` `decision-making` `design-engineering` `design-handoff` `design-leadership` `design-md` `design-principles` `design-tokens` `future-of-design` `hiring` `inspiration` `interaction-design` `interviews` `knowledge-base` `learning-resources` `midjourney` `motion` `mobile` `newsletters` `nngroup` `portfolio-sites` `podcasts` `portfolios` `prototyping` `review-workflow` `spec-driven-development` `usability-research` `visual-craft`
+Current tags: `ai-agents` `ai-chatbots` `ai-image-generation` `ai-models` `ai-output-review` `ai-skills` `ai-workflows` `app-patterns` `app-store` `atomic-research` `career-growth` `claude` `cognitive-biases` `component-states` `conversational-ui` `decision-making` `design-engineering` `design-handoff` `design-leadership` `design-md` `design-principles` `design-tokens` `directories` `fonts` `future-of-design` `graphic-design` `hiring` `inspiration` `interaction-design` `interviews` `knowledge-base` `landing-pages` `learning-resources` `local-ai` `mcp` `midjourney` `mobile` `motion` `navigation` `newsletters` `nngroup` `open-source` `podcasts` `portfolio-sites` `portfolios` `prompts` `prototyping` `psychology` `reference` `review-workflow` `spec-driven-development` `typography` `ui-patterns` `usability-research` `ux-laws` `ux-methods` `ux-myths` `visual-craft`
 
 ## Inbox
 

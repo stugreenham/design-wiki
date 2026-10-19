@@ -21,6 +21,8 @@ Visual inspiration lives in Eagle. This wiki is for ideas and knowledge, so focu
 - The test: if it plugs into a workflow (an MCP, an API, a plugin, a skill, or code you drop in), it's a tool, even if it's also browsable. Appllama is a tool for this reason
 - AI is a section on the Tools and Skills page, not a separate topic. Group the page by kind (Design tools, AI agent skills, Spec frameworks, Image generation). Add new sections as needed
 - A post announcing a skill or tool goes in Tools and Skills, because the thing you'd come back for is the tool
+- Topic pages can use their own section headings when that reads better (for example Tools and Skills groups by kind, Craft has Inspiration, Typography, Reference, Learning)
+- `topics/ux-fundamentals/` is for timeless UX knowledge: laws, psychology, biases, myths, heuristics
 - `topics/ai-and-design/` is for the thinking: articles, research, videos and opinions about AI and design
 - Inspiration galleries, magazines and reading lists are resources, not tools. File them in the topic they're about (for example visual inspiration goes in Craft)
 

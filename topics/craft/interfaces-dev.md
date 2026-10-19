@@ -25,3 +25,4 @@ Sharpening visual and interaction craft, and explaining small polish details to 
 - [Jakub Krehel's /state-machine skill](../tools-and-skills/jakub-krehel-state-machine-skill.md)
 - [Transitions.dev](../tools-and-skills/transitions-dev.md)
 - [d×e (Design Engineer)](design-engineer-xyz.md)
+- [Type.lol](type-lol.md)
