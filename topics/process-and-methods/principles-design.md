@@ -20,4 +20,5 @@ Writing or refreshing principles for a team or design system, and wanting real e
 
 ## Related
 
-- 
+- [The UX Cookbook](ux-cookbook.md)
+- [Laws of UX](../ux-fundamentals/laws-of-ux.md)

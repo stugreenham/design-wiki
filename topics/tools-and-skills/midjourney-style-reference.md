@@ -30,3 +30,4 @@ Keeping a consistent visual style across a set of generated images, like illustr
 ## Related
 
 - [Brian Lovin: How to level up with AI as a designer](../ai-and-design/brian-lovin-level-up-with-ai.md)
+- [Playground](playground-design.md)

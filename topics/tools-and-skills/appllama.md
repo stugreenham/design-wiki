@@ -22,3 +22,5 @@ Researching how successful apps handle a specific flow, like onboarding, sign up
 
 - [Interfaces: design engineering magazine](../craft/interfaces-dev.md)
 - [Brian Lovin: Good websites](../craft/brian-lovin-good-websites.md)
+- [ButterKit](butterkit.md)
+- [ScreensDesign](screensdesign.md)

@@ -24,3 +24,4 @@ Looking for inspiration for a personal site or portfolio refresh.
 - [Appllama](../tools-and-skills/appllama.md)
 - [State of UX Portfolios 2026](../career/state-of-ux-portfolios-2026.md)
 - [Brian Lovin: How to level up with AI as a designer](../ai-and-design/brian-lovin-level-up-with-ai.md)
+- [Recent](recent-design.md)
