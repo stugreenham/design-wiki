@@ -24,3 +24,4 @@ A starting point when I want inspiration but don't know which gallery to open. I
 - [Navbar Gallery](navbar-gallery.md)
 - [Brian Lovin: Good websites](brian-lovin-good-websites.md)
 - [Eagle Community: Tools](../tools-and-skills/eagle-community-tools.md)
+- [Vibrant Design](vibrant-design.md) (not listed on mkdir)

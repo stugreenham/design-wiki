@@ -8,6 +8,7 @@ Design craft: visual design, typography, layout, interaction, motion and polish.
 
 - [mkdir](mkdir-directory.md): a ranked list of 34 free web design inspiration galleries. Start here
 - [Recent](recent-design.md): fresh design work across web, interface, branding and motion
+- [Vibrant Design](vibrant-design.md): inspiration browsable by section type, like hero, pricing or FAQ
 - [Navbar Gallery](navbar-gallery.md): website navigation examples, sorted by pattern
 - [Brian Lovin: Good websites](brian-lovin-good-websites.md): a hand-picked gallery of great personal sites
 

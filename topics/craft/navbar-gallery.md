@@ -23,3 +23,4 @@ Designing or reviewing site navigation and wanting real examples of a specific p
 - [Recent](recent-design.md)
 - [Appllama](../tools-and-skills/appllama.md)
 - [mkdir](mkdir-directory.md)
+- [Vibrant Design](vibrant-design.md)
