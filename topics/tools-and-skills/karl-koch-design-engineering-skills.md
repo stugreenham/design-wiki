@@ -34,3 +34,4 @@ Reviewing something built with AI before it ships, or getting a coding agent to 
 - [State of UX Portfolios 2026](../career/state-of-ux-portfolios-2026.md) (pairs with the `hiring-manager-bar` skill)
 - [d×e: Karl's design engineering course](../craft/design-engineer-xyz.md)
 - [Brian Lovin: How to level up with AI as a designer](../ai-and-design/brian-lovin-level-up-with-ai.md)
+- [Stageshow: faux UI skill](stageshow-skill.md)

@@ -23,6 +23,8 @@ Things you can install or use in your workflow: design tools, AI agent skills, s
 - [Karl Koch's design engineering skills](karl-koch-design-engineering-skills.md): about 20 AI skills for design engineering reviews
 - [Jakub Krehel's /state-machine skill](jakub-krehel-state-machine-skill.md): see every state of a component on one throwaway page
 - [Peter Yang's /human-review skill](peter-yang-human-review-skill.md): edit and comment on AI output visually, instead of in chat
+- [Stageshow](stageshow-skill.md): helps agents make polished faux product UI and animated demos
+- [Promptly 2026](promptly-2026.md): "Spotify Wrapped" for your AI prompting history
 
 ## Spec frameworks
 

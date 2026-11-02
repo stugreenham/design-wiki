@@ -22,3 +22,4 @@ Adding polished motion to a prototype or product without building every transiti
 
 - [Karl Koch's design engineering skills](karl-koch-design-engineering-skills.md)
 - [Interfaces: design engineering magazine](../craft/interfaces-dev.md)
+- [Stageshow: faux UI skill](stageshow-skill.md)

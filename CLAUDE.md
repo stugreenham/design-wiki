@@ -14,6 +14,7 @@ Visual inspiration lives in Eagle. This wiki is for ideas and knowledge, so focu
 6. Link related entries both ways
 7. Add the entry to the topic's `README.md` under Articles, Videos, Posts, or Tools and resources (create the heading if missing). Update the root `README.md`: the entry count in the topics table and "Recently added" (newest first, keep 5). The root page stays short; detail lives in topic pages
 8. Commit with a message like `Add: <title>`
+9. Push, open a pull request, and merge it straight away (squash). Stu wants new entries live as they're filed, with no separate merge step. Then start the next batch on a fresh branch from the updated main
 
 ## Tools and Skills vs everything else
 
