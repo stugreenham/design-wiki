@@ -27,3 +27,4 @@ After `/no-ai-slop` got 4K GitHub stars, Peter Yang released `/human-review`, a 
 - [getdesign.md: DESIGN.md files for AI agents](../design-systems/getdesign-md-design-files-for-ai.md)
 - [specs.md: spec-driven AI development](specs-md.md)
 - [Karl Koch's design engineering skills](karl-koch-design-engineering-skills.md)
+- [Promptly 2026](promptly-2026.md)

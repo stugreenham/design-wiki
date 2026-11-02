@@ -24,3 +24,4 @@ Designing one specific section of a page, like a pricing table or FAQ, and wanti
 - [Navbar Gallery](navbar-gallery.md)
 - [Recent](recent-design.md)
 - [MotionSites](../tools-and-skills/motionsites.md)
+- [Stageshow: faux UI skill](../tools-and-skills/stageshow-skill.md)

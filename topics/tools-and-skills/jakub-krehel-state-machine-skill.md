@@ -25,3 +25,4 @@ Jakub, a founding design engineer at Interfere and the person behind Interfaces 
 
 - [Interfaces: design engineering magazine](../craft/interfaces-dev.md)
 - [Karl Koch's design engineering skills](karl-koch-design-engineering-skills.md)
+- [Stageshow: faux UI skill](stageshow-skill.md)
