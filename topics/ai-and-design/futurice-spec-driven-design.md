@@ -31,3 +31,4 @@ Tuomas argues that design is slow because of two "leaks": knowledge reaches desi
 - [specs.md: spec-driven AI development](../tools-and-skills/specs-md.md)
 - [getdesign.md: DESIGN.md files for AI agents](../design-systems/getdesign-md-design-files-for-ai.md)
 - [NN/g: AI for UX Work Study Guide](nng-ai-for-ux-work-study-guide.md)
+- [DESIGN.md: documenting design intent for AI](../design-systems/design-md-documenting-intent-for-ai.md)
