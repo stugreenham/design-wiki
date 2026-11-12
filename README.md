@@ -13,16 +13,16 @@ A personal knowledge base, shared publicly, on how design is changing: tools, id
 | [UX Fundamentals](topics/ux-fundamentals/README.md) | UX laws, psychology, biases and myths | 4 |
 | [Research](topics/research/README.md) | User research, testing, synthesis | 0 |
 | [Craft](topics/craft/README.md) | Visual design, typography, interaction, motion, polish | 10 |
-| [Career](topics/career/README.md) | Growth, leadership, and hiring from both sides of the table | 3 |
+| [Career](topics/career/README.md) | Growth, leadership, and hiring from both sides of the table | 4 |
 | [Industry and Trends](topics/industry-and-trends/README.md) | Where the industry is heading, opinions, big shifts | 2 |
 
 ## Recently added
 
+- [The Strategic Product Designer](topics/career/strategic-product-designer-resources.md)
 - [DESIGN.md: documenting design intent for AI](topics/design-systems/design-md-documenting-intent-for-ai.md)
 - [Stageshow: faux UI skill](topics/tools-and-skills/stageshow-skill.md)
 - [Promptly 2026](topics/tools-and-skills/promptly-2026.md)
 - [Graphical](topics/tools-and-skills/graphical.md)
-- [Vibrant Design](topics/craft/vibrant-design.md)
 
 ## About
 

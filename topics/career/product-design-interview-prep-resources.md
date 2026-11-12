@@ -25,3 +25,4 @@ After a month preparing for product and UX design interviews, Maheshwaran shared
 
 - [UX Interview Coach](ux-interview-coach.md)
 - [State of UX Portfolios 2026](state-of-ux-portfolios-2026.md)
+- [The Strategic Product Designer](strategic-product-designer-resources.md)
