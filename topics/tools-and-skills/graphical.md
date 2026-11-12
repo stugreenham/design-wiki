@@ -23,3 +23,4 @@ Setting up the look and feel for a new product or prototype before building it w
 - [getdesign.md: DESIGN.md files for AI agents](../design-systems/getdesign-md-design-files-for-ai.md)
 - [MotionSites](motionsites.md)
 - [Transitions.dev](transitions-dev.md)
+- [DESIGN.md: documenting design intent for AI](../design-systems/design-md-documenting-intent-for-ai.md)

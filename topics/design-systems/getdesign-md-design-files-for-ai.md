@@ -32,3 +32,4 @@ Brett shares [getdesign.md](https://getdesign.md/), a catalogue of 300+ DESIGN.m
 - [Peter Yang's /human-review skill](../tools-and-skills/peter-yang-human-review-skill.md)
 - [Spec-driven design (Futurice)](../ai-and-design/futurice-spec-driven-design.md)
 - [Graphical](../tools-and-skills/graphical.md)
+- [DESIGN.md: documenting design intent for AI](design-md-documenting-intent-for-ai.md)
