@@ -10,6 +10,7 @@ Career and personal development: growth, leadership, portfolios and interviews, 
 
 ## Posts
 
+- [The Strategic Product Designer](strategic-product-designer-resources.md): resources and 18 people to follow on UX strategy and impact
 - [Product design interview prep resources](product-design-interview-prep-resources.md): a list of YouTube channels and guides for interview prep
 
 ## Tools and resources

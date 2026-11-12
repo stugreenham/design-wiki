@@ -33,3 +33,4 @@ Staying across where design is heading, and hearing how experienced design leade
 
 - [AI for UX Work: Study Guide](../ai-and-design/nng-ai-for-ux-work-study-guide.md)
 - [HeyDesigner](heydesigner.md)
+- [The Strategic Product Designer](../career/strategic-product-designer-resources.md)

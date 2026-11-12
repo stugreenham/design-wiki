@@ -22,3 +22,4 @@ A quick reminder of how a method or metric works, like how to score a SUS survey
 
 - [Laws of UX](laws-of-ux.md)
 - [The UX Cookbook](../process-and-methods/ux-cookbook.md)
+- [The Strategic Product Designer](../career/strategic-product-designer-resources.md)
