@@ -21,3 +21,4 @@ Looking for a typeface beyond the usual Google Fonts and big foundries, or disco
 ## Related
 
 - [Interfaces: design engineering magazine](interfaces-dev.md)
+- [Allo](allo-font.md)

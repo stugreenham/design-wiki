@@ -36,3 +36,4 @@ A Dive Club interview with Brian Lovin, a designer at Notion, about using AI too
 - [Brian Lovin: Good websites](../craft/brian-lovin-good-websites.md)
 - [Karl Koch's design engineering skills](../tools-and-skills/karl-koch-design-engineering-skills.md)
 - [NN/g: AI for UX Work Study Guide](nng-ai-for-ux-work-study-guide.md)
+- [Allo](../craft/allo-font.md) (a font by Josh Puckett, who made DialKit)
