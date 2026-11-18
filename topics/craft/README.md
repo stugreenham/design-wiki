@@ -14,6 +14,7 @@ Design craft: visual design, typography, layout, interaction, motion and polish.
 
 ## Typography
 
+- [Allo](allo-font.md): a free, friendly variable font for interfaces, with a roundness axis
 - [Type.lol](type-lol.md): index of 900+ independent type foundries
 
 ## Reference
